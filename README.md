@@ -6,3 +6,5 @@ https://github.com/laurlen2112/kickstarter-analysis/blob/main/Parent%20Category%
 
 Outcomes Based on Launch Date Chart
 https://github.com/laurlen2112/kickstarter-analysis/blob/main/Outcomes%20based%20on%20launch%20date%20chart.png
+
+Kickstarter Analysis Excel
